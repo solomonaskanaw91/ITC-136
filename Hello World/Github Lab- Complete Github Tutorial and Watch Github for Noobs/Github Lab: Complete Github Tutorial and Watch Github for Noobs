@@ -1,0 +1,9 @@
+1.What is github?GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere. 
+
+ 2.How is git different than github?Git is a revision control system, a tool to manage your source code history. GitHub is a hosting service for Git repositories. So they are not the same thing: Git is the tool, GitHub is the service for projects that use Git.
+
+ 3.What is a branch?A branch in Git is simply a lightweight movable pointer to one of these commits. The default branch name in Git is master.
+
+ 4. What does merging a branch do?Merging is Git's way of putting a forked history back together again. The git merge command lets you take the independent lines of development created by git branch and integrate them into a single branch.
+
+  5.What is a pull request?Pull requests let you tell others about changes you've pushed to a GitHub repository. Once a pull request is sent, interested parties can review the set of changes, discuss potential modifications, and even push follow-up commits if necessary.
